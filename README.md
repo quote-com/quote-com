@@ -235,11 +235,14 @@
 </div>
 <script>
   const quotes = [
-    "Dans l'obscurité, même une étincelle devient étoile.",
-    "Ce que tu cherches te cherche aussi.",
-    "Le silence parle plus fort que les mots.",
-    "Chaque fin est le début de quelque chose d'inconnu.",
-    "L'ombre n'existe que grâce à la lumière.",
+    "quote",
+  "citation",
+  "cita",
+  "citazione",
+  "Zitat",
+  "citação",
+  "引用",
+  "اقتباس",
   ];
 
   let qi=0, ci=0, del=false, wait=false;
